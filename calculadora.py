@@ -18,4 +18,4 @@ if __name__ == "__main__":
     print("5 - 3 =", restar(5, 3))
     print("5 * 3 =", multiplicar(5, 3))
     print("5 / 3 =", dividir(5, 3))
-    print("5 / 0 =", dividir(5, 0))
+    print("5 / 0 =", dividir(5, 0)) 
